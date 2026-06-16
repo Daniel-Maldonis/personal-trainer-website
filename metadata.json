@@ -1,0 +1,6 @@
+{
+  "name": "Personal Trainer Elite",
+  "description": "Um site premium, moderno e altamente interativo para Personal Trainer, com calculadora de IMC, criador de rotinas de treino personalizadas com timer e um chat de consultoria fitness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
